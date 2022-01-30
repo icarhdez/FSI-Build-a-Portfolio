@@ -1,5 +1,5 @@
 body{
-    background-color: grey;
+    background-color: beige;
     text-align:center;
     list-style-position: inside;
 }
@@ -14,4 +14,10 @@ img {
         width: 200px;
         height: auto;
     }
+}
+.text {
+    font: 15px Arial, sans-serif;
+    text-align: justify;
+    text-justify: inter-word;
+    cursor: progress;
 }
