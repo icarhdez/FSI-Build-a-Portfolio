@@ -5,5 +5,13 @@ body{
 }
 h1 {
     color:purple;
-    
+    border-style: solid;
+    border-width: medium; 
+    display: inline;
+}
+img {
+    resize {
+        width: 200px;
+        height: auto;
+    }
 }
